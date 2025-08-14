@@ -49,10 +49,6 @@ jupyter notebook Purchase_Prediction.ipynb
 
 ## Структура проекта
 ```
-│── data/                    # Исходные данные
-│   ├── apparel-purchases.csv
-│   ├── apparel-messages.csv
-│   └── apparel-target_binary.csv
 │── masterskya2.ipynb  # Основной анализ
 │── README.md                # Эта документация
 └── requirements.txt         # Зависимости
