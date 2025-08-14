@@ -27,7 +27,6 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/KES-cmd/Masterskay2.git
-cd purchase-prediction
 ```
 
 2. Установите зависимости:
@@ -37,7 +36,7 @@ pip install -r requirements.txt
 
 3. Запустите основной ноутбук:
 ```bash
-jupyter notebook Purchase_Prediction.ipynb
+jupyter notebook masterskya.ipynb
 ```
 
 4. Шаги выполнения:
@@ -45,7 +44,8 @@ jupyter notebook Purchase_Prediction.ipynb
 - Предобработка и генерация признаков
 - Обучение и оценка моделей
 - Оптимизация гиперпараметров
-- Создание финального ансамбля
+- Создание финальной модели
+- Предсказание
 
 ## Структура проекта
 ```
@@ -55,11 +55,5 @@ Masterskya2
 │── README.md                # Эта документация
 └── requirements.txt         # Зависимости
 ```
-
-## Результаты
-Модель позволяет:
-- Увеличить конверсию на 15-20% за счет точного таргетинга
-- Снизить маркетинговые затраты на 30% путем исключения "холодных" клиентов
-- Оптимизировать timing рассылок на основе данных о времени до покупки
 
 Автор: [KES-cmd](https://github.com/KES-cmd)
