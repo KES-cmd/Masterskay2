@@ -49,6 +49,8 @@ jupyter notebook Purchase_Prediction.ipynb
 
 ## Структура проекта
 ```
+Masterskya2
+|
 │── masterskya2.ipynb  # Основной анализ
 │── README.md                # Эта документация
 └── requirements.txt         # Зависимости
